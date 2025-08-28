@@ -3,7 +3,11 @@
 ### What’s included
 ✅ [**Self-hosted n8n**]
 
+✅ [**Minio**]
+
 ✅ [**Supabase**]
+
+✅ [**Postgres**]
 
 ✅ [**Ollama**]
 
@@ -21,7 +25,7 @@
 
 ✅ [**Langfuse**]
 
-✅ [**Redis**]
+✅ [**Redis (Valkey)**]
 
 ✅ [**Clickhouse**]
 
