@@ -2,18 +2,31 @@
 
 ### What’s included
 ✅ [**Self-hosted n8n**]
+
 ✅ [**Supabase**]
+
 ✅ [**Ollama**]
+
 ✅ [**Open WebUI**]
+
 ✅ [**Flowise**]
+
 ✅ [**Qdrant**]
+
 ✅ [**Neo4j**]
+
 ✅ [**SearXNG**]
+
 ✅ [**Caddy**]
+
 ✅ [**Langfuse**]
+
 ✅ [**Redis**]
+
 ✅ [**Clickhouse**]
+
 ✅ [**WAHA**]
+
 ✅ [**NocoDB**]
 
 
